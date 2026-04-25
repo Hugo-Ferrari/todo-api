@@ -29,7 +29,7 @@ API REST para gerenciamento de tarefas desenvolvida com Java e Spring Boot.
 
 ### Passos
 1. Clone o repositório
-   git clone https://github.com/seuusuario/todo-api.git
+   git clone https://github.com/Hugo-Ferrari/todo-api.git
 
 2. Entre na pasta
    cd todo-api
